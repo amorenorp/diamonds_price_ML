@@ -17,12 +17,15 @@ Todos los modelos han sido entrenados con la misma limpieza del dataframe.
 
 Tras estudiar la correlaccion entre variables, decidí añadir una columna con el precio por quilate, dividiendo la columna `price` entre la columna `carat`.  Tras eso realizo un gruopby de `cut`, `color`, `clarity` y observamos como tienen un órden por lo que le asignamos un valor en escala. 
 
-[]()
+[](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/gruopby.png)
 
 Probamos varios modelos de ML: 
 
-[]()
-[]()
+[](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/varios.png)
+[](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/Random%20Forest.png)
 
 
-Después probamos con H2o y obtenemos mejores resultados
+Después probamos con H2o:
+
+[](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/h2o_2.png)
+
