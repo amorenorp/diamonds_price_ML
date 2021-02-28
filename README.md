@@ -29,3 +29,6 @@ Después probamos con H2o:
 
 [](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/h2o_2.png)
 
+Cargamos los .csv en la competicion de Kaggel y obtenemos estos resultados con 2 modelos de H2o:
+[](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/Captura%20de%20pantalla%202021-02-28%20a%20las%2022.18.59.png)
+
