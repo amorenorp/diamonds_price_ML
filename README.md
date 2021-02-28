@@ -22,7 +22,7 @@ Tras estudiar la correlaccion entre variables, decidí añadir una columna con e
 Probamos varios modelos de ML: 
 
 ![d](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/varios.png)
-[](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/Random%20Forest.png)
+![d](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/Random%20Forest.png)
 
 
 Después probamos con H2o:
