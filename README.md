@@ -15,7 +15,7 @@ Usamos el data base de diamantes que podeis encontrar en este enlace de [Kaggel.
 
 Todos los modelos han sido entrenados con la misma limpieza del dataframe. 
 
-Tras estudiar la correlaccion entre variables, decidí añadir una columna con el precio por quilate, dividiendo la columna `price` entre la columna `carat`.  Tras eso realizo un gruopby de `cut`, `color`, `clarity` y observamos como tienen un órden por lo que le asignamos un valor en escala. 
+Tras estudiar la correlación entre variables, decidí añadir una columna con el precio por quilate, dividiendo la columna `price` entre la columna `carat`.  Tras eso realizo un gruopby de `cut`, `color`, `clarity` y observamos como tienen un órden por lo que le asignamos un valor en escala. 
 
 ![d](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/gruopby.png)
 
@@ -31,4 +31,6 @@ Después probamos con H2o:
 
 Cargamos los .csv en la competicion de Kaggel y obtenemos estos resultados con 2 modelos de H2o:
 ![d](https://github.com/amorenorp/diamonds_price_ML/blob/main/img/Captura%20de%20pantalla%202021-02-28%20a%20las%2022.18.59.png)
+
+
 
